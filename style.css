@@ -13,7 +13,7 @@
         align-items: center;
         height: 100vh;
         text-align: center;
-        background: src(project-1.jpg)
+        background: src(\FCC\DOM Project1\project-1.jpg)
         no-repeat center center/cover;
     }
 
